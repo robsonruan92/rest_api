@@ -16,4 +16,4 @@ I used MongoDB because it's a document database, it doesn't have tables or schem
 
 ## Project Architecture
 
-![Screenshot](project_architecture.jpeg)
+![Screenshot](/image/project_architecture.png)
