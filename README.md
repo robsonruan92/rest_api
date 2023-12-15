@@ -14,3 +14,4 @@ The components we will use:
 
 I used MongoDB because it's a document database, it doesn't have tables or schemas, and because it's not a relational database it was a good option.
 
+![Screenshot](project_architecture.jpeg)
